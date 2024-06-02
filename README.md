@@ -2,6 +2,8 @@
 
 Final LLM Project for USC CSCI-499 (Language Models in Natural Language Processing)
 
+[Medium blog](https://medium.com/@sudarshanasrao/faq-generation-using-large-language-models-88746c9381a6)
+
 ## Overview
 
 ### Background
