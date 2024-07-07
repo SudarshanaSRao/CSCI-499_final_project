@@ -7,8 +7,6 @@ Final LLM Project for USC CSCI-499 (Language Models in Natural Language Processi
 ## Overview
 ![fine-tuning drawio](https://github.com/SudarshanaSRao/CSCI-499_final_project/assets/87690830/17d0ee7e-906e-49b3-995b-5e2191f161c6)
 
-![text_summary_gpt drawio](https://github.com/SudarshanaSRao/CSCI-499_final_project/assets/87690830/7c423744-57f7-45e2-8392-09750b4c917f)
-
 ### Background
 
 Large Language Models (LLMs) have become a household word nowadays. LLMs have compelling applications, and this project explores the effectiveness of Large Language Models (LLMs) in generating Frequently Asked Questions (FAQs) solely from graduate school's admission requirements for Master of Science in Computer Science. T5-large, BART-large, LLaMA-2, and LLaMA-3 performances were investigated, employing a tailored dataset to examine their capabilities in an FAQ generation context. Each model was fine-tuned with data specifically oriented towards eliciting admission-related inquiries, aligning closely with the real-world information needs of prospective students.
@@ -16,6 +14,8 @@ Large Language Models (LLMs) have become a household word nowadays. LLMs have co
 ### Objective
 
 The objective of the project is to develop an advanced natural language processing system capable of autonomously generating high-quality FAQs for websites based on their content. This involves fine-tuning several state-of-the-art language models including Llama-3 8b, Llama-2 7b, Mistral 7b, T5, and BART, integrating QLoRA PEFT for enhanced FAQ quality, and creating a comprehensive dataset by scraping and storing admission requirements for the top 150 US universities' MS in CS programs. The goal is to achieve a significant improvement in FAQ accuracy and relevance, aiming for a 10% increase compared to a baseline T5 transformer model.
+
+![text_summary_gpt drawio](https://github.com/SudarshanaSRao/CSCI-499_final_project/assets/87690830/7c423744-57f7-45e2-8392-09750b4c917f)
 
 ### Dataset
 
