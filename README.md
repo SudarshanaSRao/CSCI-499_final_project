@@ -5,6 +5,9 @@ Final LLM Project for USC CSCI-499 (Language Models in Natural Language Processi
 [Medium blog](https://medium.com/@sudarshanasrao/faq-generation-using-large-language-models-88746c9381a6)
 
 ## Overview
+![fine-tuning drawio](https://github.com/SudarshanaSRao/CSCI-499_final_project/assets/87690830/17d0ee7e-906e-49b3-995b-5e2191f161c6)
+
+![text_summary_gpt drawio](https://github.com/SudarshanaSRao/CSCI-499_final_project/assets/87690830/7c423744-57f7-45e2-8392-09750b4c917f)
 
 ### Background
 
@@ -17,3 +20,5 @@ The objective of the project is to develop an advanced natural language processi
 ### Dataset
 
 A list of the top 150 US universities for the CS program based on USNews rankings was compiled. The university names and website URLs were stored in a CSV file. Using the BeautifulSoup library, web scraping on each URL was performed, extracting admission requirements and existing FAQs. This collected data was then structured into a JSON file for compatibility with the language model training process. The dataset was split into training, validation, and testing sets as per the ratio 80\%:10\%:10\%.
+
+
