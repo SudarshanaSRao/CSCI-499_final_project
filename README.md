@@ -2,7 +2,7 @@
 
 Final LLM Project for USC CSCI-499 (Language Models in Natural Language Processing)
 
-[Medium blog](https://medium.com/@sudarshanasrao/faq-generation-using-large-language-models-88746c9381a6)
+#### [Medium blog](https://medium.com/@sudarshanasrao/faq-generation-using-large-language-models-88746c9381a6)
 
 ## Overview
 ![fine-tuning drawio](https://github.com/SudarshanaSRao/CSCI-499_final_project/assets/87690830/17d0ee7e-906e-49b3-995b-5e2191f161c6)
